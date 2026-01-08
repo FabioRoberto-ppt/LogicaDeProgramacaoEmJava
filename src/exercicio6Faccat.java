@@ -17,8 +17,5 @@ public class exercicio6Faccat {
 
         System.out.println ("a base do retângulo é : " + base );
 
-
-
-
     }
 }
