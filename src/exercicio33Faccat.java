@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio32Faccat {
+public class exercicio33Faccat {
     public static void main (String []args){
         System.out.println("33) Ler dois valores e imprimir uma das três mensagens a seguir: \n" +
                 "‘Números iguais’, caso os números sejam iguais \n" +
