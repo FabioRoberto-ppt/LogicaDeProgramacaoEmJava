@@ -60,7 +60,7 @@ Exemplos:
 2. Clone este repositório:
 
    ```bash
-   git clone <git clone <https://github.com/FabioRoberto-ppt/LogicaDeProgramacaoEmJava.git>>
+   git clone <https://github.com/FabioRoberto-ppt/LogicaDeProgramacaoEmJava.git>
    ```
 3. Abra o projeto em uma IDE (IntelliJ, Eclipse, VS Code, etc.)
 4. Execute a classe desejada pelo método `main`
